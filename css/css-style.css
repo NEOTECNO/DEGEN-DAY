@@ -307,6 +307,8 @@ body {
   justify-content: center;
   height: 80px;
   align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .form-row-amount {
